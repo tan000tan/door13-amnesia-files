@@ -1,0 +1,5 @@
+Library/
+Logs/
+Build/
+UserSettings/
+Tools/logs/*.log

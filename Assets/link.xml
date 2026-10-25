@@ -1,0 +1,4 @@
+<linker>
+    <!-- 防止 IL2CPP strip 移除关键交互/谜题类 -->
+    <assembly fullname="Assembly-CSharp" preserve="all"/>
+</linker>
